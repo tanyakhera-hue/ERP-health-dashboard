@@ -1,0 +1,29 @@
+.all-erp-dd {
+    width: 14%;
+}
+
+.button {
+    height: 25.38%;
+    width: 7.4%;
+}
+
+.form-container {
+    display: flex;
+    padding-left:2%;
+    padding-top:2.42vh;
+    border: 1px solid black;
+    height: 100%;
+}
+
+.form-container .row1{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.form-container .row2{
+    display: flex;
+}
+
+.form-container div {
+    flex-basis: auto;
+}

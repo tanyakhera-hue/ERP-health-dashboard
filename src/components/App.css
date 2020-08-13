@@ -1,0 +1,63 @@
+.top-border {
+    width: 100%;
+    background-color: white;
+    border-bottom: solid 1px #eeeeee;
+    height: 40px;
+}
+
+.main-content {
+    background-color: #fafafa;
+}
+
+#heading {                          /* need to edit this */
+    width: 301px;
+    height: 28px;
+    font-family: sans-serif;          /* need to put font */
+    font-size: 21px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #2e3539;
+}
+
+.main-content-inner {
+    margin-left: 5.13%;
+    margin-right: 1.11%;
+}
+
+.main-content-inner .container {
+    display: flex;
+    flex-direction: column;
+}
+
+.container > div {
+    border-radius: 5px;
+    border: solid 1px #eeeeee;
+    background-color: #ffffff;
+    height: 50px;
+    margin-top: 1vh;
+}
+
+#child1 {
+    height: 15vh;
+    font-size: 2em;
+}
+
+#child2 {
+    height: 17vh;
+}
+
+#child3 {
+    height: auto;
+}
+
+#child4 {
+    height: 68vh;
+}
+
+#child5 {
+    height: 86vh;
+    margin-bottom: 4vh;
+}

@@ -1,0 +1,159 @@
+const data = {
+    "syncDashboardRequest": {
+        "startTime": 1596652111000,
+        "endTime": 1596738511000,
+        "intervals": 10,
+        "modelName": [
+            "PRODUCT",
+            "RETAILER"
+        ],
+        "syncType": null,
+        "eventStatus": null,
+        "distributorId": null,
+        "erpType": [
+            "profitmaker",
+            "metalinks",
+            "easysol"
+        ]
+    },
+    "totalSyncs": 4399,
+    "totalSuccessfulSync": 4391,
+    "totalFailedSync": null,
+    "totalCreatedSync": 8,
+    "totalThrottledSync": null,
+    "totalErp": 3,
+    "totalDistributors": 63,
+    "successRate": 99.81814048647419,
+    "syncCummulativeInfoList": [
+        {
+            "inputRowCount": 29934,
+            "modifiedRowCount": 1975,
+            "addedRowCount": null,
+            "deletedRowCount": 0,
+            "startTime": 1596652111000,
+            "endTime": 1596660751000,
+            "totalSyncs": 16,
+            "totalSuccessfulSync": 16,
+            "totalFailedSync": null,
+            "totalCreatedSync": null,
+            "totalThrottledSync": null
+        },
+        {
+            "inputRowCount": 50132,
+            "modifiedRowCount": 50132,
+            "addedRowCount": null,
+            "deletedRowCount": 0,
+            "startTime": 1596660751000,
+            "endTime": 1596669391000,
+            "totalSyncs": 11,
+            "totalSuccessfulSync": 11,
+            "totalFailedSync": null,
+            "totalCreatedSync": null,
+            "totalThrottledSync": null
+        },
+        {
+            "inputRowCount": null,
+            "modifiedRowCount": null,
+            "addedRowCount": null,
+            "deletedRowCount": null,
+            "startTime": 1596669391000,
+            "endTime": 1596678031000,
+            "totalSyncs": null,
+            "totalSuccessfulSync": null,
+            "totalFailedSync": null,
+            "totalCreatedSync": null,
+            "totalThrottledSync": null
+        },
+        {
+            "inputRowCount": 56612,
+            "modifiedRowCount": 47129,
+            "addedRowCount": null,
+            "deletedRowCount": 0,
+            "startTime": 1596678031000,
+            "endTime": 1596686671000,
+            "totalSyncs": 68,
+            "totalSuccessfulSync": 68,
+            "totalFailedSync": null,
+            "totalCreatedSync": null,
+            "totalThrottledSync": null
+        },
+        {
+            "inputRowCount": 1203813,
+            "modifiedRowCount": 629441,
+            "addedRowCount": null,
+            "deletedRowCount": 0,
+            "startTime": 1596686671000,
+            "endTime": 1596695311000,
+            "totalSyncs": 879,
+            "totalSuccessfulSync": 874,
+            "totalFailedSync": null,
+            "totalCreatedSync": 5,
+            "totalThrottledSync": null
+        },
+        {
+            "inputRowCount": 1249517,
+            "modifiedRowCount": 130721,
+            "addedRowCount": null,
+            "deletedRowCount": 0,
+            "startTime": 1596695311000,
+            "endTime": 1596703951000,
+            "totalSyncs": 938,
+            "totalSuccessfulSync": 935,
+            "totalFailedSync": null,
+            "totalCreatedSync": 3,
+            "totalThrottledSync": null
+        },
+        {
+            "inputRowCount": 1567767,
+            "modifiedRowCount": 342833,
+            "addedRowCount": null,
+            "deletedRowCount": 0,
+            "startTime": 1596703951000,
+            "endTime": 1596712591000,
+            "totalSyncs": 1133,
+            "totalSuccessfulSync": 1133,
+            "totalFailedSync": null,
+            "totalCreatedSync": null,
+            "totalThrottledSync": null
+        },
+        {
+            "inputRowCount": 1302337,
+            "modifiedRowCount": 316287,
+            "addedRowCount": null,
+            "deletedRowCount": 0,
+            "startTime": 1596712591000,
+            "endTime": 1596721231000,
+            "totalSyncs": 935,
+            "totalSuccessfulSync": 935,
+            "totalFailedSync": null,
+            "totalCreatedSync": null,
+            "totalThrottledSync": null
+        },
+        {
+            "inputRowCount": 598882,
+            "modifiedRowCount": 29638,
+            "addedRowCount": null,
+            "deletedRowCount": 0,
+            "startTime": 1596721231000,
+            "endTime": 1596729871000,
+            "totalSyncs": 354,
+            "totalSuccessfulSync": 354,
+            "totalFailedSync": null,
+            "totalCreatedSync": null,
+            "totalThrottledSync": null
+        },
+        {
+            "inputRowCount": 184413,
+            "modifiedRowCount": 66539,
+            "addedRowCount": null,
+            "deletedRowCount": 0,
+            "startTime": 1596729871000,
+            "endTime": 1596738511000,
+            "totalSyncs": 65,
+            "totalSuccessfulSync": 65,
+            "totalFailedSync": null,
+            "totalCreatedSync": null,
+            "totalThrottledSync": null
+        }
+    ]
+}
